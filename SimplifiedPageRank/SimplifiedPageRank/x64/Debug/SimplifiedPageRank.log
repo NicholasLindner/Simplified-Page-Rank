@@ -1,0 +1,6 @@
+﻿  AdjacencyList.cpp
+C:\Users\nicho\source\repos\SimplifiedPageRank\SimplifiedPageRank\AdjacencyList.cpp(11,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nicho\source\repos\SimplifiedPageRank\SimplifiedPageRank\AdjacencyList.cpp(55,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  SimplifiedPageRank.vcxproj -> C:\Users\nicho\source\repos\SimplifiedPageRank\x64\Debug\SimplifiedPageRank.exe
